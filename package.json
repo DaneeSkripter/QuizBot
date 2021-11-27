@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@keyvhq/core": "^1.6.2",
+    "@keyvhq/mongo": "^1.6.2",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "gcommands": "^8.0.1",
+    "keyv": "^4.0.4",
+    "mongoose": "^6.0.13"
+  }
+}
