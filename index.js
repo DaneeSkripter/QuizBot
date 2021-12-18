@@ -53,3 +53,6 @@ mongoose.connect(process.env.DATABASE, {
 ]).catch((err) =>{
     console.log(`Failed connect to the database! Error: ${err}`)
 })
+
+// CREATED BY DANEESKRIPTER © 2021 
+// LAST EDIT: 18-12-2021

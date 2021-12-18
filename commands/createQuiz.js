@@ -54,3 +54,6 @@ module.exports = class Quiz extends Command {
     respond({ embeds: [embed]})     
     }
   }
+
+  // CREATED BY DANEESKRIPTER © 2021 
+// LAST EDIT: 18-12-2021

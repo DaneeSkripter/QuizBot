@@ -36,3 +36,6 @@ module.exports = class Quiz extends Command {
     }    
 
 }
+
+// CREATED BY DANEESKRIPTER © 2021 
+// LAST EDIT: 18-12-2021

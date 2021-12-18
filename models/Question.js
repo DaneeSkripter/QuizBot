@@ -15,3 +15,6 @@ const Question = new mongoose.Schema({
 const model = mongoose.model('questions', Question)
 
 module.exports = model;
+
+// CREATED BY DANEESKRIPTER © 2021 
+// LAST EDIT: 18-12-2021

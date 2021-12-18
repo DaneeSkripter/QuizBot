@@ -20,3 +20,6 @@ const Quiz = new mongoose.Schema({
 const model = mongoose.model('quizzes', Quiz)
 
 module.exports = model;
+
+// CREATED BY DANEESKRIPTER © 2021 
+// LAST EDIT: 18-12-2021
